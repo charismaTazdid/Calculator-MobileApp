@@ -18,11 +18,11 @@ This is a simple calculator mobile app built using React Native and Tailwind CSS
   <li> Tailwind CSS</li>
 </ul>
 
-
 ### Screenshot
-![Screenshot_20230726_165105](https://github.com/raihan-tajdid007/facebook-clone/assets/69608939/266f4c90-bbe9-4826-94ca-3ea121aee962)
 
+<img src="https://github.com/raihan-tajdid007/facebook-clone/assets/69608939/266f4c90-bbe9-4826-94ca-3ea121aee962"  height="550" />
 
 ### Author
+
 - **Raihan Tazdid** -
   [Raihan Tazdid](https://github.com/raihan-tajdid007)
