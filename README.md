@@ -20,7 +20,7 @@ This is a simple calculator mobile app built using React Native and Tailwind CSS
 
 ### Screenshot
 
-<img src="https://github.com/raihan-tajdid007/facebook-clone/assets/69608939/266f4c90-bbe9-4826-94ca-3ea121aee962"  height="550" />
+<img src="https://github.com/raihan-tajdid007/facebook-clone/assets/69608939/266f4c90-bbe9-4826-94ca-3ea121aee962"  height="50%" width="50%" />
 
 ### Author
 
